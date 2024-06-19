@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:api_handling/Api-x-Model/user_model.dart';
+import 'package:api_handling/user_Api_x_Model/user_model.dart';
 import 'package:http/http.dart' as http;
 import 'package:http/http.dart';
 
